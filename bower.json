@@ -1,0 +1,22 @@
+{
+  "name": "enowealth",
+  "description": "An app developed for the use of Eno Wealth Management LLC employees and clients.",
+  "main": "app.py",
+  "authors": [
+    "Rajan Patel"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^16.1.0",
+    "bootstrap": "^3.3.7"
+  }
+}

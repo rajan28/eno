@@ -1,0 +1,4 @@
+node_modules/
+env/
+src/__pycache__/
+src/static/bower_components/
